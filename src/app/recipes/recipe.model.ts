@@ -9,3 +9,23 @@ export class Recipe {
         this.imagePath = imagePath;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
